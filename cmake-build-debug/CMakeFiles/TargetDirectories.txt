@@ -1,0 +1,3 @@
+/cygdrive/c/School/C C++ Projects/BattleshipFinal/cmake-build-debug/CMakeFiles/BattleshipFinal.dir
+/cygdrive/c/School/C C++ Projects/BattleshipFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/School/C C++ Projects/BattleshipFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
